@@ -1,0 +1,16 @@
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\bin\Debug\net5.0\PIM_VIII.exe
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\bin\Debug\net5.0\PIM_VIII.deps.json
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\bin\Debug\net5.0\PIM_VIII.runtimeconfig.json
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\bin\Debug\net5.0\PIM_VIII.runtimeconfig.dev.json
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\bin\Debug\net5.0\PIM_VIII.dll
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\bin\Debug\net5.0\ref\PIM_VIII.dll
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\bin\Debug\net5.0\PIM_VIII.pdb
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\obj\Debug\net5.0\PIM_VIII.csproj.AssemblyReference.cache
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\obj\Debug\net5.0\PIM_VIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\obj\Debug\net5.0\PIM_VIII.AssemblyInfoInputs.cache
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\obj\Debug\net5.0\PIM_VIII.AssemblyInfo.cs
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\obj\Debug\net5.0\PIM_VIII.csproj.CoreCompileInputs.cache
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\obj\Debug\net5.0\PIM_VIII.dll
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\obj\Debug\net5.0\ref\PIM_VIII.dll
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\obj\Debug\net5.0\PIM_VIII.pdb
+C:\Users\ant-d\Documents\AprendendoCs\PIM_VIII\obj\Debug\net5.0\PIM_VIII.genruntimeconfig.cache

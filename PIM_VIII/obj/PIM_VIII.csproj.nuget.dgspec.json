@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ant-d\\Documents\\AprendendoCs\\PIM_VIII\\PIM_VIII.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ant-d\\Documents\\AprendendoCs\\PIM_VIII\\PIM_VIII.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ant-d\\Documents\\AprendendoCs\\PIM_VIII\\PIM_VIII.csproj",
+        "projectName": "PIM_VIII",
+        "projectPath": "C:\\Users\\ant-d\\Documents\\AprendendoCs\\PIM_VIII\\PIM_VIII.csproj",
+        "packagesPath": "C:\\Users\\ant-d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ant-d\\Documents\\AprendendoCs\\PIM_VIII\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ant-d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
